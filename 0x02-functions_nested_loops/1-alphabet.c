@@ -8,8 +8,8 @@
 int main(void)
 { print_alphabet();
 	int i;
-	for (i = 97; i <= 122; 1 + 1)
 
+	for (i = 97; i <= 122; 1++)
 	{
 		_putchar (1);
 	}
