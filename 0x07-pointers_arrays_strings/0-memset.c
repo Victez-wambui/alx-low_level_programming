@@ -1,7 +1,7 @@
 *                                                                                                                                   
  * File: 0-memset.c                                                                                                                  
  * Author: wambui                                                                                                                         
- */                                                                                                                                  
+*/                                                                                                                                 
                                                                                                                                      
 #include "main.h"                                                                                                                    
                                                                                                                                      
